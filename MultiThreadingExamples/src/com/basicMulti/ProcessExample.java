@@ -12,8 +12,6 @@ public class ProcessExample {
 		}catch(IOException e)
 		{
 			e.printStackTrace();
-		}
-		
+		}	
 	}
-
 }
