@@ -4,7 +4,7 @@ public class MoveMain { //implements Movies
 	
 	/*public void favMovie(String name)
 	{
-		System.out.println("Your Favourate Movie is = "+name);
+		System.out.println("Your Fav Movie is = "+name);
 	} */
 
 	public static void main(String[] args) {
